@@ -15,7 +15,3 @@ I actively use AI-assisted development in my engineering workflow and am especia
 What interests me most are problems without a predefined answer — where engineering involves research, architecture, experimentation and product thinking, rather than simply implementing a predefined ticket.
 
 Before software engineering, I worked in physics and R&D, earned a PhD, taught physics and robotics, and led a small engineering team in a lithium battery startup. That background still strongly influences how I approach new and ambiguous technical problems.
-
-[![bzalyaliev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzalyaliev&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzalyaliev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
